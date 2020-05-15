@@ -11,11 +11,13 @@ You want to make a native wrapper for WhatsApp Web (or any web page).
 nativefier web.whatsapp.com
 ```
 
+
 ![Walkthrough animation](docs/walkthrough.gif)
 
 You're done.
 
 ## Table of Contents
+
 
   - [Installation](#installation)
   - [Usage](#usage)
